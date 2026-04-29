@@ -1,4 +1,4 @@
-# CMPSC 132 Final Project: Tic-Tac-Toe Game
+
 
 ## Project Description
 
